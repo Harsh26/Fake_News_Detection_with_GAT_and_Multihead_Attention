@@ -1,4 +1,8 @@
 USER PREFERENCE FAKE NEWS DETECTION README 
+
+Original Code: https://github.com/safe-graph/GNN-FakeNews
+
+Improvement: Added Multihead Attention with 4 heads using GAT 
  																
  																
 Made by: 
