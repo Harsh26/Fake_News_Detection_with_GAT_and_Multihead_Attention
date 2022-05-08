@@ -1,12 +1,11 @@
- 																USER PREFERENCE FAKE NEWS DETECTION README 
+USER PREFERENCE FAKE NEWS DETECTION README 
  																
  																
- 						Made by: 
-       
-          Harsh Bijwe
- 								 Abhishek Pratap Singh
- 								 Kishore M
- 								 Murtaza Saifee
+Made by: 
+   Harsh Bijwe
+   Abhishek Pratap Singh
+   Kishore M
+   Murtaza Saifee
  																
  																
  						> To run the project file, write following command:-
