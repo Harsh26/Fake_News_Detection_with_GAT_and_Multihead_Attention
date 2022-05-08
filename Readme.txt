@@ -7,15 +7,14 @@ Made by:
    Kishore M
    Murtaza Saifee
  																
- 																
- 						> To run the project file, write following command:-
+ 															
+> To run the project file, write following command:-
  													
- 														> python3 Team_Entropy.py dataset_name model_name
+> python3 Team_Entropy.py dataset_name model_name
  														
- 														NOTE: dataset_name could be either gossipcop/politifact
- 															  model_name could be either bert/content
+NOTE: dataset_name could be either gossipcop/politifact & model_name could be either bert/content
  															  
  															  
- 															  It is mandatory to provide dataset name and model name otherwise the program will exit.
+It is mandatory to provide dataset name and model name otherwise the program will exit.
  															  
- 						> After writing above commands, the screen will automatically show the Output Accuracy w.r.t. GNN Model and GAT + Multihead Attention Model. 
+> After writing above commands, the screen will automatically show the Output Accuracy w.r.t. GNN Model and GAT + Multihead Attention Model. 
