@@ -18,6 +18,8 @@ Made by:
        > pip install -q torch-scatter -f https://pytorch-geometric.com/whl/<torch-version>+<cuda-version>.html
        > pip install -q torch-sparse -f https://pytorch-geometric.com/whl/<torch-version>+<cuda-version>.html
        > pip install -q git+https://github.com/rusty1s/pytorch_geometric.git
+       
+> If you face any difficulty, follow official link for installation here: https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
 
  																
  															
