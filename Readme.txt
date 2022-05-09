@@ -12,6 +12,13 @@ Made by:
    Abhishek Pratap Singh
    Kishore M
    Murtaza Saifee
+   
+> Install requirement.txt files attached, and pytorch Geometric, scatter, sparse using following:
+
+       > pip install -q torch-scatter -f https://pytorch-geometric.com/whl/<torch-version>+<cuda-version>.html
+       > pip install -q torch-sparse -f https://pytorch-geometric.com/whl/<torch-version>+<cuda-version>.html
+       > pip install -q git+https://github.com/rusty1s/pytorch_geometric.git
+
  																
  															
 > To run the project file, write following command:-
