@@ -1,6 +1,6 @@
 USER PREFERENCE FAKE NEWS DETECTION README 
 
-DISCLAIMER: This project is not used for any commercialisation, but rather only for Academic Purpose. 
+DISCLAIMER: This project is not used for any commercialisation, rather only for Academic Purpose. 
 
 Original Code: https://github.com/safe-graph/GNN-FakeNews
 
