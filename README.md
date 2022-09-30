@@ -8,10 +8,10 @@ Improvement: Added Multihead Attention with 4 heads using GAT
  																
  																
 Made by: 
-   Harsh Bijwe
-   Abhishek Pratap Singh
-   Kishore M
-   Murtaza Saifee
+   Harsh Bijwe,
+   Abhishek Pratap Singh,
+   Kishore M,
+   Murtaza Saifee.
    
 > Install requirement.txt files attached, and pytorch Geometric, scatter, sparse using following:
 
